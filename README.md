@@ -9,9 +9,10 @@
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width = 250px></picture>
 
-<br>
+<be>
 
-- A passionate Self-taught Front-end developer
+As a Strategic Marketing and Web Development Specialist, I bring a proven track record of transforming ideas into impactful digital solutions. With a strategic mindset, I merge marketing expertise with web development skills to drive business growth.
+
 - Personal website [link](http://muhammadhusnain.site/)
 
 
