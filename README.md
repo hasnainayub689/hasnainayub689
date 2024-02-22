@@ -5,19 +5,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development...++;Strategic+Marketing...;Content+Creation...;Graphic+Designing...;<3"></a>
 </p>
 
+
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width = 250px></picture>
 
 <be>
 
-As a Strategic Marketing and Web Development Specialist, I bring a proven track record of transforming ideas into impactful digital solutions. With a strategic mindset, I merge marketing expertise with web development skills to drive business growth.
+As a  **`Strategic Marketing and Web Development Specialist**, I bring a proven track record of transforming ideas into impactful digital solutions. With a strategic mindset, I merge marketing expertise with web development skills to drive business growth.
 
 - Personal website [link](http://muhammadhusnain.site/)
 
 
 <br><br>
-
 
 
 ###
@@ -55,6 +56,7 @@ As a Strategic Marketing and Web Development Specialist, I bring a proven track 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -82,5 +84,11 @@ As a Strategic Marketing and Web Development Specialist, I bring a proven track 
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+
+<details>
+ <summary><h3>👨‍💻 Hasnain's Journey</h3></summary>
+   My professional journey from graphic design to web programming has been purposeful and fulfilling. Having a background in creating designs that are visually appealing, I set out to learn HTML, CSS, and JavaScript on my own. Through this progression, I've been able to combine my technical expertise and creative thinking to create websites that are not only visually appealing but also reliable and easy to use.
+
+By consistently staying up to date with the most recent developments in web development and graphic design, I'm committed to providing exceptional digital experiences. My path demonstrates a commitment to grasping the technical aspects of web development as well as its artistic side, which has produced a unique set of abilities that combines design and technology.
+
 
