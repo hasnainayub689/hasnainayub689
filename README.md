@@ -87,8 +87,6 @@ As a  **`Strategic Marketing and Web Development Specialist**, I bring a proven 
 
 <details>
  <summary><h3>👨‍💻 Hasnain's Journey</h3></summary>
-   My professional journey from graphic design to web programming has been purposeful and fulfilling. Having a background in creating designs that are visually appealing, I set out to learn HTML, CSS, and JavaScript on my own. Through this progression, I've been able to combine my technical expertise and creative thinking to create websites that are not only visually appealing but also reliable and easy to use.
-
-By consistently staying up to date with the most recent developments in web development and graphic design, I'm committed to providing exceptional digital experiences. My path demonstrates a commitment to grasping the technical aspects of web development as well as its artistic side, which has produced a unique set of abilities that combines design and technology.
+   My professional journey from graphic design to web programming has been purposeful and fulfilling. Having a background in creating designs that are visually appealing, I set out to learn HTML, CSS, and JavaScript on my own. Through this progression, I've been able to combine my technical expertise and creative thinking to create websites that are not only visually appealing but also reliable and easy to use. By consistently staying up to date with the most recent developments in web development and graphic design, I'm committed to providing exceptional digital experiences. My path demonstrates a commitment to grasping the technical aspects of web development as well as its artistic side, which has produced a unique set of abilities that combines design and technology.
 
 
