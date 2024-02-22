@@ -13,7 +13,7 @@
 
 <be>
 
-As a  **Strategic Marketing and Web Development Specialist**, I bring a proven track record of transforming ideas into impactful digital solutions. With a strategic mindset, I merge marketing expertise with web development skills to drive business growth.
+As a  **`Strategic Marketing and Web Development Specialist`**, I bring a proven track record of transforming ideas into impactful digital solutions. With a strategic mindset, I merge marketing expertise with web development skills to drive business growth.
 
 - Personal website [link](http://muhammadhusnain.site/)
 
